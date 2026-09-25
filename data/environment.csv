@@ -1,0 +1,20 @@
+﻿entity,Greenhouse emissions in kg per kg of food,"Land use, m^2 per kg","Freshwater withdrawals, L per kg of food"
+Apples,0.43,0.63,180
+Bananas,0.86,1.93,115
+Lamb & Mutton,39.72,369.81,"1,803"
+Beef,99.48,326.21,"1,451"
+Pig Meat,12.31,17.36,"1,796"
+Poultry Meat,9.87,12.22,660
+Fish (farmed),13.63,8.41,"3,691"
+Prawns (farmed),26.87,2.97,"3,515"
+Cheese,23.88,87.79,"5,605"
+Eggs,4.67,6.27,578
+Milk,3.15,8.95,628
+Nuts,0.43,12.96,"4,134"
+Peas,0.98,7.46,397
+Potatoes,0.46,0.88,59
+Rice,4.45,2.8,"2,248"
+Soy milk,0.98,0.66,28
+Tofu,3.16,3.52,149
+Tomatoes,2.09,0.8,370
+Wheat & Rye,1.57,3.95,648
